@@ -1,0 +1,14 @@
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\bin\Debug\net8.0\Grupp41labb2.exe
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\bin\Debug\net8.0\Grupp41labb2.deps.json
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\bin\Debug\net8.0\Grupp41labb2.runtimeconfig.json
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\bin\Debug\net8.0\Grupp41labb2.dll
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\bin\Debug\net8.0\Grupp41labb2.pdb
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\Grupp41labb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\Grupp41labb2.AssemblyInfoInputs.cache
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\Grupp41labb2.AssemblyInfo.cs
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\Grupp41labb2.csproj.CoreCompileInputs.cache
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\Grupp41labb2.dll
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\refint\Grupp41labb2.dll
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\Grupp41labb2.pdb
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\Grupp41labb2.genruntimeconfig.cache
+C:\Users\husse\source\repos\Grupp41labb2\Grupp41labb2\obj\Debug\net8.0\ref\Grupp41labb2.dll
